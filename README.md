@@ -1,2 +1,2 @@
 # ebazalotto
-# A multi-level lotto tickets selling mobile app
+# A multi-level lotto tickets selling app (back-end)
