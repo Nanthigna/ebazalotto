@@ -1,0 +1,9 @@
+// === ATTENTION === Do not touch this settings!!
+//let key = getKeyFromPassword(
+//    Buffer.from(consts.KEYDATA), consts.KEYSALT);//bfd5c57bf22a1e12af87d49ad78c1b0fae9c1c6af68ec1a85a511b07e005e7e7
+// ==============================================
+
+module.exports = Object.freeze({
+    KEYDATA: 'YouWillWinOnLottery',
+    KEYSALT: 'IWillBeRich'
+});
